@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hey there! 🫡
+
+I'm **Isabel**, a Systems Engineering student based in Colombia.
+
+I’m learning how to design and build software that is useful, creative, and well-structured.
+
+My main interests are cybersecurity, artificial intelligence, game development, and software engineering.
+
+Right now, I’m improving my skills in Java, data structures, object-oriented programming, and web development.
+
+My goal is to build projects that connect technology, education, and problem-solving.
+
+Fun Facts:
+
+- I like reading, music, and series
+- I enjoy creative projects with a technical side
+- I’m currently locking in
+- Favorite areas: AI, cybersecurity, and software development
 
 <!--
 **isamarrugx/isamarrugx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
